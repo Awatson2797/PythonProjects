@@ -9,9 +9,13 @@ Dice Roller: Simulates rolling dice with random outcomes
 
 # Skills used
 Variables and data types
+
 Loops and conditionals
+
 Input validation and error handling
+
 Random number generation
+
 Basic Git & GitHub workflow
 
 Built by Alexander Watson https://github.com/Awatson2797
