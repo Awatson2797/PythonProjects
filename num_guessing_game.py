@@ -16,13 +16,4 @@ while user_guess != num_to_guess:
             break
     except ValueError:
         print("Please enter a valid number")
-# Generate a random number
-# Ask user to make a guess
-# If not a valid num 
-    #print error
-# if num < guess
-    #print too low
-# If num > guess
-    #print too high
-#else
-    #print well done
+        
